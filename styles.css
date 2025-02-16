@@ -69,6 +69,7 @@ button:hover {
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: rgb(145, 110, 110);
+  position: absolute;
 }
 .tittles {
   color: white;
@@ -109,10 +110,4 @@ h4 {
   font-family: "sans-serif";
   font-weight: 500;
   opacity: 80%;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
