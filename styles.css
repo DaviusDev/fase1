@@ -62,7 +62,51 @@ button:hover {
   color: white;
 }
 
-.h1 {
+.frameworks {
+  background-image: url("fondo2.jpg"); /* Imagen de fondo */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: rgb(145, 110, 110);
+}
+.tittles {
+  color: white;
   font-size: 50px;
-  margin-bottom: 20px;
+  font-family: "orbitron";
+  font-weight: 500;
+  opacity: 80%;
+  text-align: center;
+}
+
+.generaltext {
+  color: white;
+  font-size: 20px;
+  font-family: "sans-serif";
+  font-weight: 500;
+  opacity: 80%;
+}
+
+h4 {
+  color: white;
+  font-size: 20px;
+  font-family: "sans-serif";
+  font-weight: 500;
+  opacity: 80%;
+}
+
+.url-fonts {
+  color: white;
+  font-size: 15px;
+  font-family: "offside";
+  font-weight: 500;
+  opacity: 80%;
+}
+
+.footer {
+  color: white;
+  font-size: 13px;
+  font-family: "sans-serif";
+  font-weight: 500;
+  opacity: 80%;
 }
