@@ -69,7 +69,8 @@ button:hover {
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: rgb(145, 110, 110);
-  position: absolute;
+  padding: 40px;
+  box-sizing: border-box;
 }
 .tittles {
   color: white;
